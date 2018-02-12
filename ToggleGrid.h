@@ -14,7 +14,7 @@ using namespace std;
 class ToggleGrid
 {
     protected:
-        vector<vector<ToggleInt>> grid;
+        vector<vector<ToggleInt> > grid;
         int rows, cols;
 
     public:
